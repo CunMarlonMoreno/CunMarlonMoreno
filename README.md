@@ -28,4 +28,4 @@ CURSOS DEL SENA
 ## Usuario de mis compañeros de grupo 
 
 CunKevinGuzman  https://github.com/CunKevinGuzman
-CunRamiroOrdonez https://github.com/CunRamiroOrdonez
+CunRamiroOrdonez https://github.com/Ordo05
