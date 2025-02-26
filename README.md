@@ -27,5 +27,5 @@ CURSOS DEL SENA
 
 ## Usuario de mis compañeros de grupo 
 
-CunKevinGuzman
-CunRamiroOrdonez
+CunKevinGuzman  https://github.com/CunKevinGuzman
+CunRamiroOrdonez https://github.com/CunRamiroOrdonez
