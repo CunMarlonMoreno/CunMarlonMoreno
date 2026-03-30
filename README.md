@@ -23,7 +23,8 @@ CURSOS DEL SENA
 
 -ejecucion del proyecto de
  investigacion 
-
+ 
+-marketing digital 
 
 ## Usuario de mis compañeros de grupo 
 
